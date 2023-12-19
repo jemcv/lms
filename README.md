@@ -1,6 +1,8 @@
 ### lms
 Learning Management System
 
+This is a basic learning management system that fulfills the user requirements necessary for the completion of my web project.
+
 ### Prerequisites
 Before you begin, you should have the following installed on your computer:
 
